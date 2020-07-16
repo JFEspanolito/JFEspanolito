@@ -9,7 +9,9 @@ Actually i have a [platzi couse](https://platzi.com/uipath).
 - 💬 Ask me about UiPath RPA or whatever you want.
 - :dart: Pronouns: JFEspanolito, Espanolito.
 - :space_invader: Fun fact: Videojuegos, Game Design, Just Chatting.
-- 📫 How to reach me: [Twitter](https://twitter.com/JFEspanolito), [LinkedIn](https://www.linkedin.com/in/jfespanolito/).
+- 📫 Contact Information
+[Telegram](https://t.me/jfespanolito), [Platzi](https://platzi.com/@jfespanolito/), [Twitter](https://twitter.com/JFEspanolito), [Github](https://github.com/JFEspanolito), [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+
 
 <!--
 **JFEspanolito/JFEspanolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

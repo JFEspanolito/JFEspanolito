@@ -4,7 +4,7 @@ I'm a Mexican RPA Developer, i like game design. In my current work i'm a RPA De
 I considerate me a responsable worker with good communication with my teammates, always updating my personal skill, actually with [Platzi](https://platzi.com/@jfespanolito/).
 Actually i have a [platzi couse](https://platzi.com/uipath).
 
-- :octocat: I’m currently working on [IT Web](http://itweb.com.mx/)
+- :octocat: I’m currently working on [Axxis Consulting](http://axxisconsulting.com.mx/)
 - :books: I’m currently learning Game Design.
 - 💬 Ask me about UiPath RPA or whatever you want.
 - :dart: Pronouns: JFEspanolito, Espanolito.

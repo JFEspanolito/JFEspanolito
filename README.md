@@ -2,7 +2,6 @@
 
 I'm a Mexican RPA Developer, i like game design. In my current work i'm a RPA Developer and work as DevOps with the client to implement the robot development by my team.
 I considerate me a responsable worker with good communication with my teammates, always updating my personal skill, actually with [Platzi](https://platzi.com/@jfespanolito/).
-Actually i have a [platzi couse](https://platzi.com/uipath).
 
 - :octocat: I’m currently working on [Axxis Consulting](http://axxisconsulting.com.mx/)
 - :books: I’m currently learning Game Design.

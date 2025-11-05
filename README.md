@@ -8,7 +8,6 @@ If you'd like to try it out, leave me a message on any of my social media accoun
 
 - :octocat: I’m currently working on [Axxis Consulting](http://axxisconsulting.com.mx/)
 - :books: I’m currently learning Game Design.
-- :dart: Pronouns: JFEspanolito, Espanolito.
+- :dart: Nickname: JFEspanolito, Espanolito.
 - :space_invader: Fun fact: Videogames, Game Design, Just Chatting.
-- 📫 Contact Information
-[Telegram](https://t.me/jfespanolito), [Platzi](https://platzi.com/@jfespanolito/), [Twitter](https://twitter.com/JFEspanolito), [Github](https://github.com/JFEspanolito), [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+- 📫 Contact Information [Mail](contacto.jf.dollhouse327@passinbox.com), [Telegram](https://t.me/jfespanolito), [Platzi](https://platzi.com/@jfespanolito/), [Twitter](https://twitter.com/JFEspanolito), [Github](https://github.com/JFEspanolito), [LinkedIn](https://www.linkedin.com/in/jfespanolito/)

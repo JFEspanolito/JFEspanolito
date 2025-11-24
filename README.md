@@ -1,13 +1,46 @@
-### Hi there 👋
+## ⚙️ Arquitecto de Sistemas & Diseñador de Experiencias
 
-I'm a Mexican RPA Developer, i like game design. In my current work i'm a RPA Developer and work as DevOps with the client to implement the robot development by my team.
-I considerate me a responsable worker with good communication with my teammates, always updating my personal skill, actually with [Platzi](https://platzi.com/@jfespanolito/).
+Hola 👋, soy **Jorge A. Falcón A.** ($\text{JFEspanolito}$).
 
-I'm currently developing a role-playing/board game system from scratch. Check it out at [Echoes of the Beasts ](https://echoesbeasts.com).
-If you'd like to try it out, leave me a message on any of my social media accounts to schedule a One Shot Test.
+### **Transformo procesos complejos en automatizaciones eficientes y escalables.**
 
-- :octocat: I’m currently working on [Axxis Consulting](http://axxisconsulting.com.mx/)
-- :books: I’m currently learning Game Design.
-- :dart: Nickname: JFEspanolito, Espanolito.
-- :space_invader: Fun fact: Videogames, Game Design, Just Chatting.
-- 📫 Contact Information [Mail](mailto:contacto.jf.dollhouse327@passinbox.com), [Telegram](https://t.me/jfespanolito), [Platzi](https://platzi.com/@jfespanolito/), [Twitter](https://twitter.com/JFEspanolito), [Github](https://github.com/JFEspanolito), [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+Trabajo en **Diseño de Sistemas**, combinando ingeniería, automatización y diseño de experiencias.
+
+---
+
+### 💼 **Líder de Desarrollo RPA**
+
+Más de **13 años** optimizando operaciones con impacto verificable.
+
+* **Líder de Desarrollo RPA** (UiPath) en **[Axxis Consulting](http://axxisconsulting.com.mx/)** (2021–Presente).
+* **Impacto:**
+    * Desarrollo y despliegue de **35+ automatizaciones** en procesos críticos.
+    * Más de **3M MXN anuales** en ahorro operativo e incremento de throughput.
+    * Reducción de **1–3 horas** de trabajo manual por operador.
+* Arquitectura **end-to-end**, consolidación del **CoE**, y adopción de prácticas **DevOps**.
+
+---
+
+### 🎲 **System Designer — Ecos de las Bestias**
+
+Diseño sistemas lúdicos con enfoque de ingeniería.
+
+* **System Designer** de **[Ecos de las Bestias](https://echoesbeasts.com)**, sistema de juego de rol de mesa.
+* Integración de mecánicas, narrativa e **IA Generativa**.
+* Formación continua en Game Design (p. ej. [Platzi](https://platzi.com/@jfespanolito/)).
+
+---
+
+> **Conexión:** Ya sea en RPA o Game Design, todo parte de sistemas sólidos, documentados y escalables.
+
+### **Conectemos**
+
+* :octocat: Actualmente en **[Axxis Consulting](http://axxisconsulting.com.mx/)**.  
+* :books: Estudiando **Game Design**.  
+* :dart: Nickname: JFEspanolito, Espanolito.  
+* :space_invader: Intereses: videojuegos y diseño de sistemas.
+
+**Demo de Ecos de las Bestias:** agenda un *One Shot Test* → [contact@echoesbeasts.com](mailto:contact@echoesbeasts.com)
+
+📫 **Contacto:**  
+[Mail](mailto:contact@jfespanolito.dev) · [Telegram](https://t.me/jfespanolito) · [Platzi](https://platzi.com/@jfespanolito/) · [Twitter](https://twitter.com/JFEspanolito) · [Github](https://github.com/JFEspanolito) · [LinkedIn](https://www.linkedin.com/in/jfespanolito/)

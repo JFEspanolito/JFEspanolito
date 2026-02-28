@@ -41,4 +41,4 @@ Diseño sistemas lúdicos con enfoque de ingeniería.
 **Demo de Ecos de las Bestias:** agenda un *One Shot Test* → [contact@echoesbeasts.com](mailto:contact@echoesbeasts.com)
 
 📫 **Contacto:**  
-[Mail](mailto:contact@jfespanolito.dev) · [Telegram](https://t.me/jfespanolito) · [Platzi](https://platzi.com/@jfespanolito/) · [Twitter](https://twitter.com/JFEspanolito) · [Github](https://github.com/JFEspanolito) · [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+[Mail](mailto:hola@jfespanolito.dev) · [Telegram](https://t.me/jfespanolito) · [Platzi](https://platzi.com/@jfespanolito/) · [Twitter](https://twitter.com/JFEspanolito) · [Github](https://github.com/JFEspanolito) · [LinkedIn](https://www.linkedin.com/in/jfespanolito/)

@@ -31,8 +31,6 @@ Diseño sistemas lúdicos con enfoque de ingeniería.
 
 ---
 
-> **Conexión:** Ya sea en RPA o Game Design, todo parte de sistemas sólidos, documentados y escalables.
-
 ### **Conectemos**
 
 * :octocat: Actualmente en **[Axxis Consulting](http://axxisconsulting.com.mx/)**.  

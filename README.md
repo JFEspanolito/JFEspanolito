@@ -1,10 +1,9 @@
 ## ⚙️ Arquitecto de Sistemas & Diseñador de Experiencias
 
 Hola 👋, soy **Jorge A. Falcón A.** ($\text{JFEspanolito}$).
-
-### **Transformo procesos complejos en automatizaciones eficientes y escalables.**
-
 Trabajo en **Diseño de Sistemas**, combinando ingeniería, automatización y diseño de experiencias.
+
+<img width="3932" height="1088" alt="banner2" src="https://github.com/user-attachments/assets/8c7ccfa8-9d6e-40ba-a301-426fc4d79018" />
 
 ---
 

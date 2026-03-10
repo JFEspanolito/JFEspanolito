@@ -1,5 +1,3 @@
-## ⚙️ Arquitecto de Sistemas & Diseñador de Experiencias
-
 Hola 👋, soy **Jorge A. Falcón A.** ($\text{JFEspanolito}$).
 Trabajo en **Diseño de Sistemas**, combinando ingeniería, automatización y diseño de experiencias.
 
@@ -9,7 +7,7 @@ Trabajo en **Diseño de Sistemas**, combinando ingeniería, automatización y di
 
 ### 💼 **Líder de Desarrollo RPA**
 
-Más de **13 años** optimizando operaciones con impacto verificable.
+Más de **14 años** optimizando operaciones con impacto verificable.
 
 * **Líder de Desarrollo RPA** (UiPath) en **[Axxis Consulting](http://axxisconsulting.com.mx/)** (2021–Presente).
 * **Impacto:**
@@ -26,7 +24,6 @@ Diseño sistemas lúdicos con enfoque de ingeniería.
 
 * **System Designer** de **[Ecos de las Bestias](https://echoesbeasts.com)**, sistema de juego de rol de mesa.
 * Integración de mecánicas, narrativa e **IA Generativa**.
-* Formación continua en Game Design (p. ej. [Platzi](https://platzi.com/@jfespanolito/)).
 
 ---
 
@@ -40,4 +37,6 @@ Diseño sistemas lúdicos con enfoque de ingeniería.
 **Demo de Ecos de las Bestias:** agenda un *One Shot Test* → [contact@echoesbeasts.com](mailto:contact@echoesbeasts.com)
 
 📫 **Contacto:**  
-[Mail](mailto:hola@jfespanolito.dev) · [Telegram](https://t.me/jfespanolito) · [Platzi](https://platzi.com/@jfespanolito/) · [Twitter](https://twitter.com/JFEspanolito) · [Github](https://github.com/JFEspanolito) · [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+[Mail: hola@jfespanolito.dev](mailto:hola@jfespanolito.dev) · [Telegram](https://t.me/jfespanolito) · [LinkedIn](https://www.linkedin.com/in/jfespanolito/)
+
+* Formación continua en [Platzi](https://platzi.com/@jfespanolito/).
